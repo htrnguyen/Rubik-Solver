@@ -30,3 +30,7 @@ python rubik.py
 3. After scanning all the faces, the program will display the steps to solve the Rubik's Cube.
 
 ![Solution](/Document/Solution.png)
+
+### Demo
+
+[![Video Demo](https://img.youtube.com/vi/7rKNxRrDnnY/maxresdefault.jpg)](https://youtube.com/watch?v=7rKNxRrDnnY)
